@@ -1,0 +1,8 @@
+﻿"Name","Root Average Squared Error","Root Mean Absolute Error","Average Squared Error","Sum of Frequencies","Root Mean Squared Logarithmic Error","Champion","Algorithm Name",
+"Gradient Boosting","0.289679468989","0.446551034122","0.0839141947537","146","0.01926732224","true","Gradient Boosting",
+"Forward Linear Regression","0.317991854214","0.484434683561","0.101118819346","146","0.0203589639329","false","Linear Regression",
+"Ensemble","0.320264558779","0.497588320129","0.10256938761","146","0.0215814082208","false","Ensemble",
+"Stepwise Linear Regression","0.323146490956","0.477716525461","0.104423654617","146","0.0202322114317","false","Linear Regression",
+"Forest","0.346450842942","0.50742584482","0.120028186575","146","0.0236901365592","false","Forest",
+"Decision Tree","0.464017231333","0.570694809342","0.215311990974","146","0.031671374032","false","Decision Tree",
+"Neural Network","1.00500094562","0.943366770008","1.0100269007","146","0.0666305949561","false","Neural Network",

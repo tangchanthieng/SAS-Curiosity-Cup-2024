@@ -1,0 +1,4 @@
+﻿"Role","Variable Format","Creator","Variable Length","Variable Label","Creator GUID","Variable Type","Type","Function","Name",
+"PREDICT","","gradboost","8","Predicted: avg_consumption","33eee36d-5efd-4c16-966a-063b08fc7d7f","double","N","PREDICT","EM_PREDICTION",
+"PREDICT","","gradboost","8","Predicted: avg_consumption","33eee36d-5efd-4c16-966a-063b08fc7d7f","double","N","PREDICT","P_avg_consumption",
+"ASSESS","","gradboost","4","Warnings","33eee36d-5efd-4c16-966a-063b08fc7d7f","char","C","ASSESS","_WARN_",
